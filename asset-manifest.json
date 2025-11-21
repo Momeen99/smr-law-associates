@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d5e300c.css",
-    "main.js": "/static/js/main.547a4516.js",
-    "index.html": "/index.html",
-    "main.0d5e300c.css.map": "/static/css/main.0d5e300c.css.map",
-    "main.547a4516.js.map": "/static/js/main.547a4516.js.map"
+    "main.css": "/smr-law-associates/static/css/main.0d5e300c.css",
+    "main.js": "/smr-law-associates/static/js/main.547a4516.js",
+    "index.html": "/smr-law-associates/index.html",
+    "main.0d5e300c.css.map": "/smr-law-associates/static/css/main.0d5e300c.css.map",
+    "main.547a4516.js.map": "/smr-law-associates/static/js/main.547a4516.js.map"
   },
   "entrypoints": [
     "static/css/main.0d5e300c.css",
